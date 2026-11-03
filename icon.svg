@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#14e3c2"/><stop offset="1" stop-color="#0a6fb8"/></linearGradient>
+    <linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity=".22"/><stop offset=".5" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect x="8" y="8" width="240" height="240" rx="58" fill="url(#g)"/>
+  <rect x="8" y="8" width="240" height="240" rx="58" fill="url(#s)"/>
+  <!-- tapis -->
+  <path d="M196 188 L178 86 L156 86" stroke="#0b1a26" stroke-width="13" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="34" y="180" width="188" height="26" rx="13" fill="#0b1a26"/>
+  <circle cx="52" cy="193" r="6" fill="#14e3c2"/><circle cx="204" cy="193" r="6" fill="#14e3c2"/>
+  <!-- courbe d'effort -->
+  <path d="M40 146 L74 146 L92 108 L114 162 L134 124 L150 124" stroke="#ffffff" stroke-width="15" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
